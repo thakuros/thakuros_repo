@@ -9,9 +9,6 @@
 echo "Checking for newer files online first"
 git pull
 
-cd x86_64
-sh update_repo.sh
-
 # Below command will backup everything inside the project folder
 git add --all .
 
