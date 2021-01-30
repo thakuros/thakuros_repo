@@ -4,7 +4,7 @@ rm TOS_repo*
 
 echo "repo-add"
 #repo-add -s -n -R carli_repo.db.tar.gz *.pkg.tar.zst
-repo-add -s -n -R TOS_repo.db.tar.gz *.pkg.tar.zst
+repo-add -n -R TOS_repo.db.tar.gz *.pkg.tar.zst
 #repo-add -s -n -R TOS_repo.db.tar.gz *.pkg.tar.gz
 
 sleep 5
