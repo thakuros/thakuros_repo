@@ -1,3 +1,3 @@
 # PKGBUILDs for TOS
 
-Repos
+Repo list
